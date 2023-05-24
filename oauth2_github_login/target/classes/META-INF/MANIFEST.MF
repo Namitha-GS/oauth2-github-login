@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 17.0.1
+Implementation-Title: oauth2_github_login
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.namitha
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/oauth2_github_login
+Created-By: Maven Integration for Eclipse
+
